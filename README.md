@@ -1,0 +1,1 @@
+# creating-array-in-c
