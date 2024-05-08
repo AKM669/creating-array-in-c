@@ -1,1 +1,1 @@
-# creating-array-in-c
+# array-problem-c
